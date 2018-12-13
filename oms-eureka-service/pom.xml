@@ -82,7 +82,8 @@
     <version>2.2</version>
     <configuration>
     <url>http://18.191.221.39:8080/manager/html</url>
-    <path>/</path>
+    <server>TomcatServer</server>
+	<path>/test</path>
     </configuration>
     </plugin>
 </plugins>
